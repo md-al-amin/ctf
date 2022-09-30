@@ -1,4 +1,4 @@
-<h2> CTF Learn Challenge    Challenge Nema: Bru XOR </h2>
+CTF Learn Challenge    Challenge Nema: Bru XOR 
 
 Browse following websites: 
 
