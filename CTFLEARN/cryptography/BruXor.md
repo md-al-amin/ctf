@@ -1,4 +1,4 @@
-<b>CTF Learn Challenge  Challenge Nema: Bru XOR </b>
+<b>CTF Learn Challenge  : Challenge Name: Bru XOR </b>
 
 Browse following websites: 
 https://www.dcode.fr/xor-cipher
