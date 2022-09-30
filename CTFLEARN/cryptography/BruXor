@@ -1,5 +1,10 @@
-#CTF Learn Challenge    Challenge Nema: Bru XOR
+<h2> CTF Learn Challenge    Challenge Nema: Bru XOR </h2>
 
 Browse following websites: 
+
 https://www.dcode.fr/xor-cipher
+
 Enter The text: q{vpln'bH_varHuebcrqxetrHOXEj 
+
+
+17: 	flag{y0u_Have_bruteforce_XOR}
